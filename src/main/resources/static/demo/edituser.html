@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit user</title>
+    <style>
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
+    </style>
+</head>
+<body>
+<div>
+     <form id="edytujuser">
+        <label for="uid">nazwa:</label>
+        <input type="text" id="uid" name="uid" readonly><br><br>
+        <label for="uname">nazwa:</label>
+        <input type="text" id="uname" name="uname"><br><br>
+        <label for="uemail">email:</label>
+        <input type="text" id="uemail" name="uemail"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const id = urlParams.get('id');
+const name = urlParams.get('name');
+const email = urlParams.get('email');
+
+document.getElementById("uid").value = id;
+document.getElementById("uname").value = name;
+document.getElementById("uemail").value = email;
+
+
+const form = document.getElementById('edytujuser');
+form.addEventListener('submit', async event => {
+  event.preventDefault();
+
+  const data = new FormData(form);
+ // console.log('fire');
+  console.log(Array.from(data));
+
+  try {
+    const res = await fetch(
+      'http://localhost:8080/demo/edytujuser',
+      {
+        method: 'PUT',
+        body: data,
+      },
+    );
+   window.location.href = "userlist";
+  } catch (err) {
+    console.log(err.message);
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+[ERROR] 2023-09-11 21:16:01.933 [http-nio-8080-exec-2] MainController - User added 333399
+[ERROR] 2023-09-11 21:17:32.223 [http-nio-8080-exec-3] MainController - User added 333399
+[ERROR] 2023-09-11 21:20:23.015 [http-nio-8080-exec-9] MainController - User added 333399
+[INFO ] 2023-09-11 21:23:44.257 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 6744 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-11 21:23:44.276 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-11 21:23:55.924 [restartedMain] DbaccessApplication - Started DbaccessApplication in 12.298 seconds (process running for 13.921)
+[INFO ] 2023-09-11 21:24:01.444 [http-nio-8080-exec-3] MainController - User added 3333
+[ERROR] 2023-09-11 21:24:01.444 [http-nio-8080-exec-3] MainController - User added 333399
+[INFO ] 2023-09-14 10:23:45.593 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2192 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 10:23:45.610 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 10:23:53.917 [restartedMain] DbaccessApplication - Started DbaccessApplication in 9.015 seconds (process running for 11.143)
+[INFO ] 2023-09-14 10:31:05.642 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 9044 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 10:31:05.659 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 10:31:16.649 [restartedMain] DbaccessApplication - Started DbaccessApplication in 11.626 seconds (process running for 13.162)
+[INFO ] 2023-09-14 10:55:23.014 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 15300 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 10:55:23.043 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 10:55:36.179 [restartedMain] DbaccessApplication - Started DbaccessApplication in 13.785 seconds (process running for 15.491)
+[INFO ] 2023-09-14 11:00:36.228 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 6108 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 11:00:36.247 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 11:00:48.273 [restartedMain] DbaccessApplication - Started DbaccessApplication in 12.695 seconds (process running for 14.275)
+[INFO ] 2023-09-14 11:05:34.392 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 1544 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 11:05:34.421 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 11:05:46.342 [restartedMain] DbaccessApplication - Started DbaccessApplication in 12.641 seconds (process running for 14.501)
+[INFO ] 2023-09-14 11:11:52.643 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12828 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 11:11:52.680 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 11:12:05.229 [restartedMain] DbaccessApplication - Started DbaccessApplication in 13.679 seconds (process running for 15.654)
+[INFO ] 2023-09-14 11:24:00.038 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 13928 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 11:24:00.056 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 11:24:06.880 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.44 seconds (process running for 8.953)
+[INFO ] 2023-09-14 12:44:08.108 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12384 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 12:44:08.136 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 12:44:15.283 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.767 seconds (process running for 10.016)
+[INFO ] 2023-09-14 13:02:15.416 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2552 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:02:15.432 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:02:24.368 [restartedMain] DbaccessApplication - Started DbaccessApplication in 9.621 seconds (process running for 11.401)
+[INFO ] 2023-09-14 13:10:03.028 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 5972 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:10:03.063 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:10:12.478 [restartedMain] DbaccessApplication - Started DbaccessApplication in 10.236 seconds (process running for 12.43)
+[INFO ] 2023-09-14 13:12:51.033 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 4968 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:12:51.060 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:12:57.826 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.48 seconds (process running for 9.059)
+[INFO ] 2023-09-14 13:15:38.847 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 4968 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:15:38.849 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:15:40.059 [restartedMain] DbaccessApplication - Started DbaccessApplication in 1.31 seconds (process running for 171.292)
+[INFO ] 2023-09-14 13:16:02.946 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 13840 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:16:02.966 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:16:09.315 [restartedMain] DbaccessApplication - Started DbaccessApplication in 6.946 seconds (process running for 8.521)
+[INFO ] 2023-09-14 13:18:51.593 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 7792 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:18:51.633 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:18:58.437 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.524 seconds (process running for 8.96)
+[INFO ] 2023-09-14 13:20:38.125 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 1604 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:20:38.147 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:20:45.618 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.153 seconds (process running for 9.653)
+[INFO ] 2023-09-14 13:23:13.613 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12228 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:23:13.630 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:23:20.031 [restartedMain] DbaccessApplication - Started DbaccessApplication in 6.989 seconds (process running for 8.409)
+[INFO ] 2023-09-14 13:24:44.784 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 10184 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:24:44.817 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:24:52.919 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.718 seconds (process running for 10.27)
+[INFO ] 2023-09-14 13:25:33.725 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 8896 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:25:33.748 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:25:40.350 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.174 seconds (process running for 8.655)
+[INFO ] 2023-09-14 13:27:28.864 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 9708 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:27:28.896 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:27:36.060 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.891 seconds (process running for 9.472)
+[INFO ] 2023-09-14 13:30:12.464 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 6336 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:30:12.490 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:30:19.466 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.724 seconds (process running for 9.285)
+[INFO ] 2023-09-14 13:32:48.039 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 5576 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:32:48.070 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:32:54.982 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.657 seconds (process running for 9.147)
+[INFO ] 2023-09-14 13:34:08.236 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 4968 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:34:08.268 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:34:15.508 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.924 seconds (process running for 9.484)
+[INFO ] 2023-09-14 13:40:28.901 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 6524 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:40:28.916 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:40:39.096 [restartedMain] DbaccessApplication - Started DbaccessApplication in 11.085 seconds (process running for 12.798)
+[INFO ] 2023-09-14 13:41:31.617 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 10728 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:41:31.641 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:41:38.925 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.944 seconds (process running for 9.496)
+[INFO ] 2023-09-14 13:44:39.122 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 8588 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:44:39.144 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:44:45.484 [restartedMain] DbaccessApplication - Started DbaccessApplication in 6.948 seconds (process running for 8.393)
+[INFO ] 2023-09-14 13:47:18.101 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2944 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:47:18.123 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:47:24.582 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.082 seconds (process running for 8.775)
+[INFO ] 2023-09-14 13:56:56.277 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 13116 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 13:56:56.301 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 13:57:04.102 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.447 seconds (process running for 10.169)
+[INFO ] 2023-09-14 14:12:22.053 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12000 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 14:12:22.073 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 14:12:29.223 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.985 seconds (process running for 9.501)
+[INFO ] 2023-09-14 15:21:48.789 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 16176 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:21:48.826 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:21:55.927 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.733 seconds (process running for 9.229)
+[INFO ] 2023-09-14 15:24:58.953 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12300 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:24:58.972 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:25:05.938 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.641 seconds (process running for 9.083)
+[INFO ] 2023-09-14 15:25:17.441 [http-nio-8080-exec-7] MainController - User added 3333
+[ERROR] 2023-09-14 15:25:17.441 [http-nio-8080-exec-7] MainController - User added 333399
+[INFO ] 2023-09-14 15:32:47.735 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 11528 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:32:47.826 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:32:55.867 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.838 seconds (process running for 10.448)
+[INFO ] 2023-09-14 15:38:13.834 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 8048 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:38:13.868 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:38:20.687 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.472 seconds (process running for 9.062)
+[INFO ] 2023-09-14 15:39:37.058 [http-nio-8080-exec-5] MainController - User added 3333
+[ERROR] 2023-09-14 15:39:37.058 [http-nio-8080-exec-5] MainController - User added 333399
+[INFO ] 2023-09-14 15:40:38.818 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 8376 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:40:38.846 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:40:46.042 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.87 seconds (process running for 9.471)
+[INFO ] 2023-09-14 15:41:53.755 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12060 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:41:53.831 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:42:01.149 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.019 seconds (process running for 9.587)
+[INFO ] 2023-09-14 15:42:15.000 [http-nio-8080-exec-8] MainController - User added 3333
+[ERROR] 2023-09-14 15:42:15.000 [http-nio-8080-exec-8] MainController - User added 333399
+[INFO ] 2023-09-14 15:45:11.692 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 14324 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:45:11.724 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:45:18.373 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.397 seconds (process running for 8.926)
+[INFO ] 2023-09-14 15:46:52.397 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 14560 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:46:52.429 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:46:58.739 [restartedMain] DbaccessApplication - Started DbaccessApplication in 6.899 seconds (process running for 8.307)
+[INFO ] 2023-09-14 15:48:28.619 [http-nio-8080-exec-5] MainController - User added 3333
+[ERROR] 2023-09-14 15:48:28.619 [http-nio-8080-exec-5] MainController - User added 333399
+[INFO ] 2023-09-14 15:48:30.121 [http-nio-8080-exec-6] MainController - User added 3333
+[ERROR] 2023-09-14 15:48:30.122 [http-nio-8080-exec-6] MainController - User added 333399
+[INFO ] 2023-09-14 15:55:45.383 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 14560 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:55:45.387 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:55:46.780 [restartedMain] DbaccessApplication - Started DbaccessApplication in 1.475 seconds (process running for 536.347)
+[INFO ] 2023-09-14 15:57:45.141 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 14596 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 15:57:45.162 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 15:57:52.267 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.707 seconds (process running for 9.195)
+[INFO ] 2023-09-14 16:01:53.917 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 15840 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:01:53.942 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:02:00.562 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.237 seconds (process running for 8.839)
+[INFO ] 2023-09-14 16:03:11.480 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 4240 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:03:11.502 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:03:18.597 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.748 seconds (process running for 9.292)
+[INFO ] 2023-09-14 16:04:12.231 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 5924 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:04:12.248 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:04:18.562 [restartedMain] DbaccessApplication - Started DbaccessApplication in 6.904 seconds (process running for 8.35)
+[INFO ] 2023-09-14 16:05:21.780 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 13548 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:05:21.814 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:05:28.769 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.611 seconds (process running for 9.055)
+[INFO ] 2023-09-14 16:06:20.050 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 14624 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:06:20.082 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:06:26.742 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.373 seconds (process running for 9.056)
+[INFO ] 2023-09-14 16:09:17.759 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2740 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 16:09:17.783 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 16:09:24.570 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.548 seconds (process running for 9.153)
+[INFO ] 2023-09-14 17:50:48.930 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2740 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 17:50:48.931 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 17:50:50.312 [restartedMain] DbaccessApplication - Started DbaccessApplication in 1.533 seconds (process running for 6094.943)
+[INFO ] 2023-09-14 17:50:54.011 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 2740 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 17:50:54.014 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 17:50:55.971 [restartedMain] DbaccessApplication - Started DbaccessApplication in 2.053 seconds (process running for 6100.602)
+[INFO ] 2023-09-14 17:51:00.355 [main] DbaccessApplicationTests - Starting DbaccessApplicationTests using Java 20.0.2 with PID 6520 (started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 17:51:00.373 [main] DbaccessApplicationTests - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 17:51:08.445 [main] DbaccessApplicationTests - Started DbaccessApplicationTests in 8.502 seconds (process running for 12.448)
+[INFO ] 2023-09-14 17:51:51.690 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 12624 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-14 17:51:51.720 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-14 17:51:58.362 [restartedMain] DbaccessApplication - Started DbaccessApplication in 7.236 seconds (process running for 8.748)
+[INFO ] 2023-09-15 09:47:47.586 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 11772 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-09-15 09:47:47.630 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-15 09:47:56.137 [restartedMain] DbaccessApplication - Started DbaccessApplication in 10.113 seconds (process running for 15.315)
+[INFO ] 2023-10-01 11:37:38.677 [restartedMain] DbaccessApplication - Starting DbaccessApplication using Java 20.0.2 with PID 8076 (C:\springboot\dbaccess\target\classes started by Administrator in C:\springboot\dbaccess)
+[INFO ] 2023-10-01 11:37:38.691 [restartedMain] DbaccessApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-10-01 11:37:46.816 [restartedMain] DbaccessApplication - Started DbaccessApplication in 8.707 seconds (process running for 11.301)
