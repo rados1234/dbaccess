@@ -32,6 +32,7 @@ public class MainController {
         // This returns a JSON or XML with the users
         return userRepository.findAll();
     }
+    //test
     @GetMapping("/userlist")
     public String listaUser(Model model) {
         model.addAttribute("Users", userRepository.findAll());
